@@ -1,1 +1,0 @@
-Hello world. I am learning how to use git to push a dog.
